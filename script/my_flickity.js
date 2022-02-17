@@ -3,5 +3,6 @@ $('.main-carousel').flickity({
     cellAlign: 'left',
     contain: true,
     adaptiveHeight: true,
-    wrapAround: true
+    wrapAround: true,
+    pageDots: false
 });
