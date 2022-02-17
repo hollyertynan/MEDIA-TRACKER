@@ -5,3 +5,11 @@
 .imageHover {
     transition: opacity 0.3s;
 }
+
+.poster {
+    height: 400px;
+}
+
+.music {
+    height: 200px;
+}
